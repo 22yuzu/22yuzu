@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuzuki Tomioka</h1>
-- 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **yuzubook3@gmail.com**
 - sechack365'23
+- 🌱 I’m currently learning **web development & security**
+- I'm currently working on mustholic
+- 📫 How to reach me **yuzubook2@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
