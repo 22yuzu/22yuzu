@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yuzuki Tomioka</h1>
 
-- sechack365'23
+- **sechack365'23**
+- 🔭 I’m currently working on [mustholic](https://github.com/22yuzu/mustholic1)
 - 🌱 I’m currently learning **web development & security**
-- I'm currently working on mustholic
 - 📫 How to reach me **yuzubook2@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
